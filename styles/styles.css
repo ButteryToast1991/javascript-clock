@@ -1,0 +1,18 @@
+body{
+    background-color:orangered;
+}
+
+.container{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+#clock{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
